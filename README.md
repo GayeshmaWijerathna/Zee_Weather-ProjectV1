@@ -1,7 +1,8 @@
 <h1>Run Back-end follow these steps...!</h1>
 
 1. python --version 
-(created - Python 3.12.7)
+
+(created by - Python 3.12.7)
 
 2. pip install uvicorn[standard] 
 
