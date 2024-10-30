@@ -2,7 +2,7 @@
 
 1. python --version 
 
-(created by - Python 3.12.7)
+   (created by - Python 3.12.7)
 
 2. pip install uvicorn[standard] 
 
